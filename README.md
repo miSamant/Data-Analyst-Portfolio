@@ -15,16 +15,11 @@ Live demo at https://jekyll-theme-minimal-resume.netlify.com/
 ![](https://img.shields.io/badge/devicon-✓-blue.svg)
 ![](https://img.shields.io/badge/gulp-✓-blue.svg)
 
-***
-
-<h3 align="center">Please help this repo with a ⭐ if you find it useful! :blush:</h3>
-
-***
 
 # Screenshot
 
 <p align="center">
-  <img src="https://github.com/murraco/jekyll-theme-minimal-resume/blob/master/screenshot.png" width="90%" />
+  <!-- <img src="https://github.com/murraco/jekyll-theme-minimal-resume/blob/master/screenshot.png" width="90%" /> -->
 </p>
 
 # Quick Setup
@@ -39,17 +34,17 @@ You have to fill some informations on `_config.yml` to customize your site:
 
 ## Site settings
 ```yml
-description: A blog about lorem ipsum dolor sit amet
+description: 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://localhost:3000" # the base hostname & protocol for your site
 ```
 
 ## User settings
 ```yml
-username: Lorem Ipsum
-user_description: Software Engineer at Lorem Ipsum Dolor
-user_title: Mauricio Urraco
-email: mauriurraco@gmail.com
+username: 
+user_description: 
+user_title: 
+email: 
 ```
 
 > Don't forget to change your URL before you deploy your site!
@@ -67,7 +62,7 @@ email: mauriurraco@gmail.com
 You can (and should) edit the `.html` files for adding your own information, icons, working experience, social links or whatever you want to add. I.e.:
 
 ```html
-<a aria-label="My Github" target="_blank" href="https://github.com/murraco">
+<a aria-label="My Github" target="_blank" href="https://github.com/miSamant/">
   <i class="icon fa fa-github-alt" aria-hidden="true"></i>
 </a>
 ```
@@ -81,13 +76,6 @@ In order to compile the assets and run `Jekyll` locally you need to follow those
 3. Run `bundle exec jekyll build`
 4. Start and http-server in the folder `_site`
 
-# Contribution
-
-- Report issues
-- Open pull request with improvements
-- Spread the word
-- Reach out to me directly at <mauriurraco@gmail.com>
-
 # Credits
 
-- [Nathan Randecker](https://github.com/nrandecker)
+- [Mauricio Urraco](https://github.com/murraco)
