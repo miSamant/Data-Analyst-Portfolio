@@ -6,14 +6,15 @@ description: Jekyll Theme Minimal Resume
 
 # User settings
 username: Mihir Samant
-user_description: I'm a Senior Data Analyst from Canada, always searching for the next challenge.Proactive, result-oriented, technically qualified, Master of Applied Computing with 6+ years of Data Analytics experience. Progressive experience of three years in Python and Data Warehouses like Big Query, Redshift, Microsoft Azure, Snowflake. Ability to create meaningful insights from raw data by applying ETL and ELT tools like Apache Airflow, SSIS. Experience of creating dashboards for wide range of data using BI tools such as Tableau, PowerBI and Looker.
+user_description: As a seasoned Senior Data Analyst hailing from Canada, I'm continuously on the lookout for the next stimulating challenge. With a proactive and results-oriented approach, I bring a wealth of technical expertise to the table, holding a Master of Applied Computing degree and boasting over 6 years of hands-on experience in the realm of Data Analytics. Over the course of my career, I've honed my skills across various domains, with a particular focus on Python programming and navigating Data Warehouses such as Big Query, Redshift, Microsoft Azure, and Snowflake. My proficiency extends beyond mere data manipulation; I excel in extracting meaningful insights from raw datasets, leveraging a blend of ETL and ELT tools including Apache Airflow and SSIS. Moreover, my repertoire includes crafting dynamic dashboards that breathe life into diverse datasets. I'm adept at utilizing leading BI tools like Tableau, PowerBI, and Looker to transform intricate data sets into actionable insights that drive informed decision-making.
 user_title: Data Analyst
 email: mihirs202@gmail.com
 # twitter_username: 
 # instagram_username: 
 # facebook_username: 
 linkedin_username: misamant
-github_username:  misamant
+github_username:  miSamant
+tableau_username : mihir5633
 # medium_username: lorem_ipsum
 # medium_url: lorem_ipsum.medium.com
 # gplus_username:  lorem_ipsum
