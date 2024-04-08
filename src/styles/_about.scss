@@ -46,6 +46,7 @@
 }
 
 .user-down {
+  justify-content: center;
   color: #FFF;
   position: absolute;
   bottom: 25px;
@@ -61,7 +62,7 @@
   border: none !important;
   outline-style: none !important;
   -moz-outline-style: none !important;
-  .icon {
+  .user-down-icon {
       position: absolute;
       -webkit-transform-style: preserve-3d;
       transform-style: preserve-3d;
@@ -71,7 +72,7 @@
       transform: translate(-50%, -50%);
       width: 100px;
       height: 100px;
-      fill: #fff;
+      fill: #000000;
       -webkit-animation: pulse 1.3s infinite;
       animation: pulse 1.3s infinite;
       &:hover {
